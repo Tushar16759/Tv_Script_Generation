@@ -6,7 +6,7 @@ In this project I generated Simpsons TV scripts, for a scene at Moe's Tavern, us
 
 Topics Covered:
 * Recurrent Neural Networks
-*Tensorflow
-*Embeddings
-*LSTMs
-*Word2Vec
+* Tensorflow
+* Embeddings
+* LSTMs
+* Word2Vec
